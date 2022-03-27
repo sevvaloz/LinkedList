@@ -1,1 +1,1 @@
-I did a form application that you can create dynamic linked list with C#
+I did a form application with C# that you can create dynamic linked list.
